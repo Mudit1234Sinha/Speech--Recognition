@@ -1,2 +1,3 @@
 # Speech--Recognition
-This is a program which converts speech to text and also marks the beginning and ending of our speech using pyaudio
+
+I have made a Speech Recognition using PyAudio and Speech-Recognition library of Python which converts our voice into text and displays it as output
